@@ -1,4 +1,4 @@
-## Hey seja bem vindo(a), eu sou o Kadu e esse é o meu perfil, fique à vontade hehe😁
+## Hey seja bem vindo(a), sou o Kadu e esse é o meu perfil, fique à vontade hehe😁
 
  <div>
    <a href="https://github.com/Kadu-Oliveira">
